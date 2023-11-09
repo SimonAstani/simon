@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/simon/static/js/main.baf5951f.js",
+    "static/media/img.png": "/simon/static/media/img.2876e5a4e5a98706652c.png",
+    "index.html": "/simon/index.html",
+    "main.baf5951f.js.map": "/simon/static/js/main.baf5951f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.baf5951f.js"
+  ]
+}
